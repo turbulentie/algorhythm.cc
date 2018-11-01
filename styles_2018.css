@@ -1,0 +1,36 @@
+/**
+ *
+ *   styles_2018.css for algorhythm.cc
+ *
+ *   Created by i (i@algorhythm.cc)
+ *   Last updated 2018-04-12
+ *
+ */
+
+
+a {
+    color: #FFFFFF;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    text-decoration: none;
+}
+
+a:active, a:hover {
+    color: #FFFFFF;
+    outline-width: 0;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #000000;
+    color: #BABABA;
+ /* font: 10pt Consolas,"Courier New","Lucida Console",monospace; */
+    margin: 5;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

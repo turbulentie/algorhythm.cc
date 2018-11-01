@@ -1,0 +1,83 @@
+/* styles.css for algorhythm.cc */
+
+/*
+a {
+  text-decoration: none;
+}
+*/
+
+a:link, a:visited {
+  color: #00AAFF;
+}
+
+a:active, a:hover {
+  color: #CC0066;
+}
+
+body {
+  background-color: #000000;
+  color: #CCCCCC;
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+.code {
+  color: #33CC33;
+  line-height: 80%;
+}
+
+.conf {
+  color: #F0C000;
+  line-height: 80%;
+}
+
+.echo {
+  color: #808080;
+  line-height: 80%;
+}
+
+h1 {
+  color: #CC0066;
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+h2 {
+  color: #CC0066;
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+h3 {
+  color: #CC0066;
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+h4 {
+  color: #CC0066;
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+table {
+  border: 0px solid black;
+  width: 100%;
+  padding: 0px;
+}
+
+th {
+  height: 25px;
+  padding: 0px;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+td {
+  height: 15px;
+  padding: 0px;
+}
+
+.footer {
+  color: #555555;
+  font: 8pt Consolas,"Courier New","Lucida Console",monospace;
+}
+
+.header {
+  font: 10pt Consolas,"Courier New","Lucida Console",monospace;
+}
